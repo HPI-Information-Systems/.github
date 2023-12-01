@@ -1,0 +1,1 @@
+The research goal of the Information Systems Group is the efficient and effective management of heterogeneous information in large, autonomous systems. This includes methods for data profiling, data preparation and cleansing, information integration, and metadata management.
